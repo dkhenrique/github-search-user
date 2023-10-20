@@ -13,5 +13,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 <p>
-  <img src=".github/preview.jpg" width="100%">
+  <img src=".github/preview.png" width="100%">
 </p>
